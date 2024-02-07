@@ -1,0 +1,54 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: hsl(0, 0%, 8%);
+}
+
+a {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  background-color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 100%);
+  padding: 10px 0 10px 0;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-weight: 400;
+  font-size: 26px;
+}
+
+h4 {
+  color: hsl(75, 94%, 57%);
+}
+
+p {
+  color: hsl(0, 0%, 100%);
+  font-size: 14px;
+  padding-bottom: 15px;
+  font-weight: 100;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 90px;
+}
+
+.container {
+  border-radius: 15px;
+  margin: 100px auto;
+  text-align: center;
+  max-width: 300px;
+  background-color: hsl(0, 0%, 12%);
+  padding: 50px 30px 30px 30px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: #8a77e1;
+}
